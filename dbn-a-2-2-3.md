@@ -122,7 +122,7 @@ STRUCTURE AND CONTENT OF PROJECT DOCUMENTATION FOR CONSTRUCTION
 
 ## 3.18 проект підготовчих робіт
 
-Розділ проектної документації, склад та зміст якого визначається ДБН А.3.1-5
+Розділ проектної документації, склад та зміст якого визначається [ДБН А.3.1-5](https://www.minregion.gov.ua/wp-content/uploads/2016/01/A315_Organizatsiya-budivelnogo-virobnitstva.pdf) 
 
 ## 3.19 проектні роботи
 
